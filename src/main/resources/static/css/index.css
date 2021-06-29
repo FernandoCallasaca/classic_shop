@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+* {
+	margin: 0px;
+}
+
+header {
+	background-color: #0A1D37;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
